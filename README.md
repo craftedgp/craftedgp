@@ -42,7 +42,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=808080&text=Up+coming+games&fontColor=#ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=808080&text=Up+coming+games&fontColor=ffffff)
 
 
 | Current Project  | SCP Simulator |
