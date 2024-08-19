@@ -40,7 +40,7 @@
 
 <br/>
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=20)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&width=10)
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=808080&text=Up+coming+games&fontColor=#ffffff)
 
