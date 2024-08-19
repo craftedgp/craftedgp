@@ -16,8 +16,8 @@
   <a href="https://x.com/craftedgp"><img width="32px" alt="X" title="X" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/8G9neE9VR2" alt="Discord" title="Sinister Community server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://steamcommunity.com/id/craftedgp/"><img width="32px" alt="Steam profile" title="craftedgp's Steam profile" src="https://i.imgur.com/yJus6pQ.png"/></a>
 </p>
 
 <br/>
