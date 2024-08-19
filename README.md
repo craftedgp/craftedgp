@@ -40,8 +40,9 @@
 
 <br/>
 
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
-
+</p>
 <details close> 
 
 Current Project : SCP Simulator
