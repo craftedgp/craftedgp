@@ -42,10 +42,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
-<details close> 
+![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&?text=Up&coming&games)
 
 Current Project : SCP Simulator
 
 Project version : Alpha 0.1.2
 
 Availabilty : Request playtest only
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
