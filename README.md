@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/craftedgp">
-    <img src="https://i.imgur.com/e90nnbN.png" alt="CraftedGP" /></a>
+    <img src="https://i.imgur.com/Ml4ZtId.png" alt="CraftedGP" /></a>
 </p>
 
 <p align="center">
