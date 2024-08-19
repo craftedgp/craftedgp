@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @craftedgp
-![](https://komarev.com/ghpvc/?username=craftedgp&color=gray)
+![](https://komarev.com/ghpvc/?username=craftedgp&color=brightgreen)
