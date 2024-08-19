@@ -42,6 +42,8 @@
 
 ![header align="center"](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
 
+![](https://raw.githubusercontent.com/craftedgp/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
 <details close> 
 
 Current Project : SCP Simulator
