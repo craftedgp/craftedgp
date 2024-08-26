@@ -45,7 +45,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=808080&text=Up+coming+games&fontColor=ffffff)
 
 
-| Current Project  | SCP Simulator |
-| ------------- | ------------- |
-| Project version  | Alpha 0.1.2  |
-| Availabilty  | Request playtest only |
+| Current Project(s) | SCP Slayer | SCP: Fall of Ganzir |
+| ------------- | ------------- | ------------- |
+| Project version  | Alpha 0.1.2c  | Alpha 0.1.0 |
+| Availabilty  | Request playtest only | Request Playtest only |
