@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://x.com/craftedgp"><img width="32px" alt="X" title="X" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/8G9neE9VR2" alt="Discord" title="Sinister Community server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  <a href="https://discord.gg/8G9neE9VR2" alt="Discord" title="My discord"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://steamcommunity.com/id/craftedgp/"><img width="32px" alt="Steam profile" title="craftedgp's Steam profile" src="https://i.imgur.com/yJus6pQ.png"/></a>
 </p>
@@ -25,27 +25,3 @@
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  <a href="https://www.youtube.com/channel/UCT6zskKqkNAo_f_ABHdgd1Q?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
-  <a href="https://www.youtube.com/channel/UCT6zskKqkNAo_f_ABHdgd1Q">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
-  <a href="https://github.com/craftedgp?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/craftedgp?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/craftedgp?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/craftedgp?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/craftedgp">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=craftedgp&color=236ad3&labelColor=1155ba&style=for-the-badge&logo=followers&label=Profile+Views&logoColor=white"/></a>
-</p>
-
-<br/>
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10)
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=808080&text=Up+coming+games&fontColor=ffffff)
-
-
-| Current Project(s) | SCP Slayer |
-| ------------- | ------------- | 
-| Project version  | Alpha 0.1.2c  |
-| Availabilty  | Request playtest only | 
